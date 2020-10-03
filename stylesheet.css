@@ -1,0 +1,685 @@
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: lightgreen;
+  background-color: transparent;
+  text-decoration: underline;
+  cursor: pointer;
+}
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.center-container {
+	background-color:none;
+	width:1440px;
+	height:1815px;
+	margin:auto;	
+}
+.contactscontainer {
+	background-color:transparent;
+	width:1440px;
+	height:1000px;
+	margin:auto;	
+}
+.contactscontainernews {
+	background-color:transparent;
+	width:1440px;
+	height:1000px;
+	margin:auto;
+}
+.containergallery {
+	background-image: url("backgroundleaf.jpg");
+	width:1440px;
+	height:1000px;
+	margin:auto;
+}
+
+.containerservices {
+	background-color:transparent;
+	width:1440px;
+	height:3454px;
+	margin:auto;
+}
+
+.logo {
+	position: relative;
+	height:0px;
+	left:90px;
+	top:-785px;
+}
+.backgroundimage {
+	background-color:none;
+	width:1440px;
+	height:780px;
+	clear:both;
+}
+
+.topnav {
+	background-color:#121413;
+	width:460px;
+	height:59px;
+	font-family:arial,helvetica;
+	font-weight:600;
+	font-size: 16px;
+	line-height:3.5;
+	text-align: center;
+	color: white;
+	float: left;
+}
+
+.navone {
+	background-color:#121413;
+	width:330px;
+	height:59px;
+	text-align: left;
+	line-height:4.6;
+	float: left;
+}
+.nav2 {
+	background-color:#121413;
+    width:130px;
+	height:59px;
+	font-family:arial,helvetica;
+	font-size: 11px;
+	line-height:6;
+	text-align: center;
+	color: white;
+	float: left;
+}
+.nav3 {
+	background-color:#121413;
+    width:130px;
+	height:59px;
+	font-family:arial,helvetica;
+	font-size: 11px;
+	line-height:6;
+	text-align: center;
+	color: white;
+	float: left;
+}
+.nav4 {
+	background-color:#121413;
+    width:130px;
+	height:59px;
+	font-family:arial,helvetica;
+	font-size: 11px;
+	line-height:6;
+	text-align: center;
+	color: white;
+	float: left;
+}
+.nav5 {
+	background-color:#121413;
+    width:130px;
+	height:59px;
+	font-family:arial,helvetica;
+	font-size: 11px;
+	line-height:6;
+	text-align: center;
+	color: white;
+	float: left;
+}
+.nav6 {
+	background-color:#121413;
+    width:130px;
+	height:59px;
+	font-family:arial,helvetica;
+	font-size: 11px;
+	line-height:6;
+	text-align: center;
+	color: white;
+	float: left;
+}
+.header {
+  background: none;
+  width:1440px;
+  height:720px;
+  clear:both;
+}
+
+.textbar {
+	background-color:#707070;
+	width:1440px;
+	height:127px;
+	text-align: center;
+	font-family:luther;
+	font-size: 81px;
+	color: white;
+	margin:auto;
+}
+
+.leafleft {
+	background-color:none;
+	height:746px;
+	width:18%;
+	float:left;	
+}
+
+.leafright {
+	background-color:none;
+	height:746px;
+	width:18%;
+	float:left;
+}
+
+.text1 {
+	background-color:none;
+	height:746px;
+	width:18%;
+	color: #113017;
+	position:relative;
+	top:122px;
+	text-align: left;
+	font-family:arial,helvetica;
+	font-size: 14px;
+	line-height:1.6;
+	padding-left:30px;
+    float:left;
+}
+
+.text2 {
+	background-color:none;
+	height:746px;
+	width:18%;
+	color: #113017;
+	position:relative;
+	top:122px;
+	text-align: left;
+	font-family:arial,helvetica;
+	font-size: 14px;
+	line-height:1.6;
+	padding-left:49px;
+	float:left;
+}
+
+.text3 {
+	background-color:none;
+	height:746px;
+	width:20%;
+	color: #113017;
+	position:relative;
+	top:176px;
+	text-align: left;
+	font-family:arial,helvetica;
+	font-size: 14px;
+	line-height:1.6;
+	padding-left:18px;
+	float:left;
+}
+.downbtn {  
+  position: relative;
+  height:0px;
+  top: -300px;
+  left: 114px;
+  background-color: none;
+}
+
+.upbtn {
+  position: relative;
+  height:0px;
+  top: -160px;
+  right:-115px;
+  background-color: none;
+  clear:both;
+}
+
+/**-some elements for contacts page-**/
+.location {
+	background-color:none;
+	height:0px;
+	width:120px;
+	position:relative;
+	top:-645px;
+	left:555px;
+	clear:both;
+}
+
+.leafcorner {
+	background-color: none;
+	height:0px;
+	float:right;
+	position:relative;
+	top:-340px;
+	left:0px;
+}
+
+/**-some elements for reflection page-**/
+
+
+.reflectiontext {
+	background-color:none;
+	height:690px;
+	width:550px;
+	text-align:left;
+	position:relative;
+	top:0px;
+	left:90px;
+	font-family:arial,helvetica;
+	font-size: 14px;
+	line-height:1.6;
+	color: #113017;
+}
+
+
+/**-some elements for services page-**/
+.logoservices {
+	background-color:none;
+	width:1350px;
+	height:128px;
+	position:relative;
+	top:0px;
+	left:90px;
+	clear:both;
+}
+.headerservice {
+	background-color:none;
+	height:133px;
+	width:500px;
+	font-family:luther;
+	font-size: 81px;
+	color: #113017;
+	position:relative;
+	top:0px;
+	left:90px;
+}
+.servicestext {
+	background-color:none;
+	width:350px;
+	position:relative;
+	top:-212px;
+	left:225px;
+	text-align: left;
+	font-family:arial,helvetica;
+	font-size: 14px;
+	line-height:1.6;
+	padding-left:49px;
+}
+
+.gardenplan {
+	background-color:none;
+	width:76px;
+	height:195px;
+	position:relative;
+	top:-260px;
+	left:730px;
+}
+
+.steps1 {
+	background-color:none;
+	width:320px;
+	float:left;
+}
+
+.steps2 {
+	background-color:none;
+	width:320px;
+	float:left;
+	padding:32,32px;
+	position:relative;
+	left:40px;
+}
+
+.lady {
+	background-color:none;
+	width:717px;
+	float:right;
+}
+.face {
+	background-color:none;
+	width:320px;
+	height:478px;
+	float:left;
+	position:relative;
+	top:40px;
+}
+.men {
+	background-color:none;
+	width:320px;
+	float:left;
+	padding:32,32px;
+	position:relative;
+	left:40px;
+	top:40px;
+}
+
+.serviceleafleft {
+	background-color:none;;
+	width:190px;
+	clear:both;
+}
+
+.servicestext2 {
+	background-color:none;
+	height:400px;
+	width:360px;
+	text-align: left;
+	font-family:arial,helvetica;
+	font-size: 14px;
+	line-height:1.6;
+	padding-left:49px;
+	padding-bottom:8,8px;
+	float:left;
+	position:relative;
+	left:115px;
+	top:-750px;
+	margin:75px;	
+}
+
+
+.longpath {
+	background-color:green;
+	height:0px;
+	width:420px;
+	float:right;
+	position:relative;
+	left:-260px;
+	top:-850px;
+	text-align: left;
+	font-family:arial,helvetica;
+	font-size: 14px;
+	line-height:1.6;
+}
+
+
+.serviceleftright {
+	background-color:none;
+	height:0px;
+	width:258px;
+	float:right;
+	position:relative;
+	left:-0px;
+	top:-850px;
+}		
+
+
+/**-some elements for our latest gallery page-**/
+.gallerylogo {
+	background-color:none;
+	width:1440px;
+	height:0px;
+	position:relative;
+	top:0px;
+	left:90px;
+}
+
+.headergreen {
+	background-color:none;
+	width:1440px;
+	height:97px;
+	text-align: left;
+	font-family:luther;
+	font-size: 81px;
+	clear:both;
+	position:relative;
+	top:100px;
+	left:79px;
+}
+
+.gallerybox {
+	background-color:none;
+	height:667px;
+	width:820px;
+	vertical-align: middle;
+	position:relative;
+	top:70px;
+	margin:auto;	
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+
+.butterfly {
+	background-color:none;
+	height:0px;
+	width: 0px;
+	position:relative;
+	top:-300px;
+	left:790px;	
+}
+
+.getintouch {
+	background-color:none;
+	width:106px;
+	height:91px;
+	margin:auto;
+}
+
+/**-some elements for our latest news page-**/
+
+
+.backgroundimage2 {
+	background-color:none;
+	width:188px;
+	height:720px;
+	clear:both;
+}
+.Our {
+	background-color:none;
+	width:360px;
+	height:0px;
+	text-align: left;
+	font-family:luther;
+	font-size: 81px;
+	color: #113017;
+	position:relative;
+	top:59px;
+	}
+	
+.classes {
+	background-color:none;
+	height:60px;
+	width:720px;
+	color: #113017;
+	font-family:luther;
+	font-size: 80px;
+	text-align:center;
+	position:relative;
+	top:-630px;
+	float:right;
+}
+.column {
+	height:0px;
+	position:relative;
+	top:-530px;
+	float:right;
+	width:16%;
+	left:590px;
+	padding: 6px;
+}
+	
+.news {
+	background-color:none;
+	height:0px;
+	width:720px;
+	color: #113017;
+	text-align: left;
+	font-family:arial,helvetica;
+	font-size: 14px;
+	line-height:1.6;
+	position:relative;
+	top:-340px;
+	left:375px;
+	clear:both;
+	margin-left: auto;
+	margin-right: auto;
+	width: 18em
+}	
+
+/**-some elements for about us page-**/
+.aboutleafleft {
+	background-color:none;
+	height:780px;
+	width: 1440px;
+	clear:both;	
+}
+
+.teampicture {
+	background-color:yellow;
+	height:500px;
+	width:370px;
+	color: #113017;
+	float:right;
+	position:relative;
+	top:169px;
+	right: 44px;
+}
+.abouttext2 {
+	background-color:transparent;
+	height:500px;
+	width:270px;
+	color: #113017;
+	font-family:arial,helvetica;
+	font-size: 14px;
+	line-height:1.6;
+	float:right;
+	position:relative;
+	top:169px;
+	right:30px;
+}
+
+.abouttext1 {
+	background-color:transparent;
+	height:500px;
+	width:270px;
+	color: #113017;
+	font-family:arial,helvetica;
+	font-size: 14px;
+	line-height:1.6;
+	float:right;
+	position:relative;
+	top:169px;
+	left:-70px;
+}
+
+/**-footer starts here-**/
+
+.footer {
+	background-color:#707070;
+	width:1440px;
+	height:161px;
+	text-align: left;
+	font-family:arial,helvetica;
+	font-size: 12px;
+	color: white;
+	clear:both;
+}
+
+.smalllogo {
+  	background-color:none;
+    position: relative;
+    top: 34px;
+    right:0px;
+  	width:52px;
+  	height:128px;
+	float: left;
+	margin-left: 114px;
+}
+	
+.address {
+	background-color:none;
+	width:217px;
+	height:70px;
+    position: relative;
+    top: 34px;
+    right:-35px;
+	text-align: left;
+	font-family:arial,helvetica;
+	font-size: 10px;
+	line-height:1.6;
+	color: white;
+	float: left;
+}
+
+.hours {
+	background-color:none;
+	width:320px;
+	height:127px;
+	position: relative;
+	top: 34px;
+	right:-66px;
+	text-align: left;
+	font-family:arial,helvetica;
+	font-size: 12px;
+	line-height:1.6;
+	color: white;
+	float: left;
+}
+.facebook {
+	background-color:none;
+	width:50px;
+	height:60px;
+	position: relative;
+	top: 111px;
+	right:0px;
+	float:right;	
+}
+
+.twitter {
+	background-color:none;
+	width:50px;
+	position: relative;
+	top: 111px;
+	right:0px;
+	height:60px;
+	float:right;
+}
+
+.instagram {
+	background-color:none;
+	width:50px;
+	position: relative;
+	top: 111px;
+	right:0px;
+	height:60px;
+	float:right;
+}
+
+.copyright {
+  	background-color:none;
+  	width:616px;
+  	height:34px;
+	clear:both;
+	text-align: center;
+	font-family:arial,helvetica;
+	font-size: 12px;
+	line-height:1.6;
+	color: white;
+}
+
+h6 {
+	font-family: arial,helvetica;
+	font-size: 15px;
+	color: white;
+}
+
+h3 {
+	font-family:luther;
+	font-size: 35px;
+	color: #113017;
+}
+
+h2 {
+	font-family:luther;
+	font-size: 81px;
+	color: white;
+	height: 0px;
+	position: relative;
+	top: -650px;
+	right:-95px;
+}
+
+
