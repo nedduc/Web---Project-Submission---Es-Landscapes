@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'lutherregular';
+    src: url('luther_regular-webfont.woff2') format('woff2'),
+         url('luther_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 a:link {
   color: white;
   background-color: transparent;
@@ -528,7 +535,7 @@ a:active {
 }
 
 .teampicture {
-	background-color:yellow;
+	background-color:transparent;
 	height:500px;
 	width:370px;
 	color: #113017;
