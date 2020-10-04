@@ -5,6 +5,7 @@
     font-weight: normal;
     font-style: normal;
 }
+
 a:link {
   color: white;
   background-color: transparent;
@@ -159,8 +160,8 @@ a:active {
 	width:1440px;
 	height:127px;
 	text-align: center;
-	font-family:luther;
-	font-size: 81px;
+	font-family:Candara;
+	font-size: 65px;
 	color: white;
 	margin:auto;
 }
@@ -259,14 +260,25 @@ a:active {
 	top:-340px;
 	left:0px;
 }
-
+.lastline {
+	background-color:none;
+	width:320px;
+	height:0px;
+	position: relative;
+	top: 108px;
+	left:-255px;
+	float: left;
+}
+	
+	
+}
 /**-some elements for reflection page-**/
 
 
 .reflectiontext {
 	background-color:none;
 	height:690px;
-	width:550px;
+	width:100px;
 	text-align:left;
 	position:relative;
 	top:0px;
@@ -275,6 +287,13 @@ a:active {
 	font-size: 14px;
 	line-height:1.6;
 	color: #113017;
+}
+/**-some elements for submit page-**/
+.submit {
+	background-color:none;
+	height:0px;
+	width:650px;
+	text-align:center;
 }
 
 
@@ -292,8 +311,8 @@ a:active {
 	background-color:none;
 	height:133px;
 	width:500px;
-	font-family:luther;
-	font-size: 81px;
+	font-family:Candara;
+	font-size: 65px;
 	color: #113017;
 	position:relative;
 	top:0px;
@@ -424,8 +443,8 @@ a:active {
 	width:1440px;
 	height:97px;
 	text-align: left;
-	font-family:luther;
-	font-size: 81px;
+	font-family:Candara;
+	font-size: 65px;
 	clear:both;
 	position:relative;
 	top:100px;
@@ -479,8 +498,8 @@ a:active {
 	width:360px;
 	height:0px;
 	text-align: left;
-	font-family:luther;
-	font-size: 81px;
+	font-family:Candara;
+	font-size: 65px;
 	color: #113017;
 	position:relative;
 	top:59px;
@@ -491,8 +510,8 @@ a:active {
 	height:60px;
 	width:720px;
 	color: #113017;
-	font-family:luther;
-	font-size: 80px;
+	font-family:Candara;
+	font-size: 65px;
 	text-align:center;
 	position:relative;
 	top:-630px;
@@ -674,14 +693,14 @@ h6 {
 }
 
 h3 {
-	font-family:luther;
+	font-family:Candara;
 	font-size: 35px;
 	color: #113017;
 }
 
 h2 {
-	font-family:luther;
-	font-size: 81px;
+	font-family:Candara;
+	font-size: 50px;
 	color: white;
 	height: 0px;
 	position: relative;
